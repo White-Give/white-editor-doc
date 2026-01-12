@@ -10,7 +10,7 @@ export default defineConfig({
     ['link', { rel: 'stylesheet', href: '/white-editor-doc/custom.css' }]
   ],
   themeConfig: {
-    logo: '/white-editor-doc/white-give.png',
+    logo: '/white-give.png',
     search: {
       provider: 'local'
     }
@@ -23,7 +23,7 @@ export default defineConfig({
       description:
         "White-Editor 是一个基于 Vue 3 和 tiptap 的现代所见即所得编辑器。",
       themeConfig: {
-        nav: [{ text: "指南", link: "/start" }, { text: "示例", link: "https://gitee.com/white-vue/white-editor" }],
+        nav: [{ text: "指南", link: "/start" }, { text: "示例", link: "https://white-give/white-editor" }],
         sidebar: [
           {
             text: '简介',

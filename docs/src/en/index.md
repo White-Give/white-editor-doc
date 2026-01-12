@@ -6,7 +6,7 @@ hero:
   text: A modern editor based on Vue 3 and tiptap.
   tagline: Simple and easy to use, integrates all common functions, no secondary development required.
   image:
-    src: /white-editor-doc/white-give.png
+    src: /white-give.png
     alt: White Editor Logo
   actions:
     - theme: brand
@@ -14,7 +14,7 @@ hero:
       link: /en/start
     - theme: alt
       text: View Demo
-      link: /en/example
+      link: https://white-give/white-editor
 
 features:
   - title: Modern Tech Stack
