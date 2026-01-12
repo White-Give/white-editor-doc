@@ -7,10 +7,10 @@ export default defineConfig({
   // Enable Dark/Light 模式
   appearance: true,
   head: [
-    ['link', { rel: 'stylesheet', href: '/custom.css' }]
+    ['link', { rel: 'stylesheet', href: '/white-editor-doc/custom.css' }]
   ],
   themeConfig: {
-    logo: 'https://pinia.vuejs.org/logo.svg',
+    logo: '/white-editor-doc/white-give.png',
     search: {
       provider: 'local'
     }
