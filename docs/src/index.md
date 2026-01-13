@@ -6,7 +6,7 @@ hero:
   text: 基于 Vue 3 和 tiptap 的现代编辑器。
   tagline: 简洁易用，集成了所有常见功能，无需二次开发。
   image:
-    src: /white-give.png
+    src: /white-give-editor.png
     alt: White Editor Logo
   actions:
     - theme: brand
