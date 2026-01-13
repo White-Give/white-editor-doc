@@ -7,6 +7,7 @@ export default defineConfig({
   // Enable Dark/Light 模式
   appearance: true,
   head: [
+    ['link', { rel: 'icon', href: '/white-editor-doc/white-give.png' }],
     ['link', { rel: 'stylesheet', href: '/white-editor-doc/custom.css' }]
   ],
   themeConfig: {
