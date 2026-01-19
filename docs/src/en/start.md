@@ -9,7 +9,7 @@ yarn add @white-give/editor-vue
 ```
 
 ::: tip
-white-editor is based on Vue3, requiring Vue3 version >= 3.0.0, and also requires tiptap version tiptap2.x. Node version >= 18.0.0.
+white-editor is based on Vue3, requiring Vue3 version >= 3.0.0, and also requires tiptap version tiptap3.x. Node version >= 18.0.0.
 :::
 
 Import Component

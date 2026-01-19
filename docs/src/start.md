@@ -9,7 +9,7 @@ yarn add @white-give/editor-vue
 ```
 
 ::: tip
-white-editor 基于 Vue3，需要 Vue3 版本 >= 3.0.0，同时也需要 tiptap 版本 tiptap2.x。Node 版本 >= 18.0.0。
+white-editor 基于 Vue3，需要 Vue3 版本 >= 3.0.0，同时也需要 tiptap 版本 tiptap3.x。Node 版本 >= 18.0.0。
 :::
 
 引入组件

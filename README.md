@@ -1,6 +1,6 @@
 # white-give-editor文档
 
-这是一个tiptap2 + vue3 + tailwindcss 的富文本编辑器
+这是一个tiptap3 + vue3 + tailwindcss 的富文本编辑器
 
 使用方式：
 
