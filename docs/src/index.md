@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /start
+      link: /vue-install
     - theme: alt
       text: 查看demo
       link: https://white-give/white-editor
