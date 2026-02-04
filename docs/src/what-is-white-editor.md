@@ -2,11 +2,12 @@
 
 ## 什么是 White-Editor
 
-white-editor 是基于 Vue 3 和 tiptap 的现代编辑器。组件都是基于 tiptap 的功能封装，并自定义添加了一些常用的功能。
+white-editor 是基于 tiptap 的现代编辑器。组件都是基于 tiptap 的功能封装，并自定义添加了一些常用的功能。
 
-## 由 vue3 + tiptap + tailwindcss 构建
+## 由 vue3/react + tiptap + tailwindcss 构建
 
-- vue3：Vue 3 是当前主流的渐进式 JavaScript 框架‌，以更快的性能、更小的体积和更强的 TypeScript 支持为核心优势，适用于从简单页面到大型应用的开发场景。
+- vue3 是当前主流的渐进式 JavaScript 框架‌，以更快的性能、更小的体积和更强的 TypeScript 支持为核心优势，适用于从简单页面到大型应用的开发场景。
+- react：React 是一个用于构建用户界面的 JavaScript 库。它提供了一种 declarative 的方式来描述用户界面，并使用虚拟 DOM 来提高性能。
 - tiptap：Tiptap 是一个无头富文本编辑器库，提供了丰富的文本编辑功能，如加粗、斜体、标题、列表等。它的设计理念是简单易用，同时也支持自定义扩展。
 - tailwindcss：Tailwind CSS 是一个 utility-first 的 CSS 框架，它提供了一组预定义的类名，用于快速构建自定义的用户界面。它的设计理念是“原子化 CSS”，即每个类名都代表了一个具体的样式，而不是一个复杂的组件。
 

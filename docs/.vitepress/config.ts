@@ -22,15 +22,21 @@ export default defineConfig({
       lang: "zh",
       title: "White-Editor",
       description:
-        "White-Editor 是一个基于 Vue 3 和 tiptap 的现代所见即所得编辑器。",
+        "White-Editor 是一个基于 Vue 3/React 和 tiptap 的现代所见即所得编辑器。",
       themeConfig: {
-        nav: [{ text: "指南", link: "/start" }, { text: "示例", link: "https://white-give/white-editor" }],
+        nav: [{ text: "指南", link: "/vue-install" }, { text: "示例", link: "https://white-give/white-editor" }],
         sidebar: [
           {
             text: '简介',
             items: [
               { text: "White-Editor 是什么", link: "/what-is-white-editor" },
-              { text: "快速开始", link: "/start" }
+              {
+                text: "快速开始",
+                items: [
+                  { text: "Vue 安装", link: "/vue-install" },
+                  { text: "React 安装", link: "/react-install" }
+                ]
+              }
             ],
           },
           {
@@ -77,13 +83,19 @@ export default defineConfig({
       description:
         "White-Editor is a modern WYSIWYG editor based on Vue 3 and tiptap.",
       themeConfig: {
-        nav: [{ text: "Guide", link: "/en/start" }, { text: "Example", link: "https://gitee.com/white-vue/white-editor" }],
+        nav: [{ text: "Guide", link: "/en/vue-install" }, { text: "Example", link: "https://gitee.com/white-vue/white-editor" }],
         sidebar: [
           {
             text: 'Introduction',
             items: [
               { text: "What is White-Editor", link: "/en/what-is-white-editor" },
-              { text: "Get Started", link: "/en/start" }
+              {
+                text: "Get Started",
+                items: [
+                  { text: "Vue Install", link: "/en/vue-install" },
+                  { text: "React Install", link: "/en/react-install" }
+                ]
+              }
             ],
           },
           {

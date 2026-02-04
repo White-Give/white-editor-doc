@@ -2,11 +2,12 @@
 
 ## What is White-Editor
 
-white-editor is a modern editor based on Vue 3 and tiptap. The components are all encapsulated based on tiptap functions, and some commonly used functions are added.
+white-editor is a modern editor based on tiptap. The components are all encapsulated based on tiptap functions, and some commonly used functions are added.
 
-## Built with Vue3 + Tiptap + TailwindCSS
+## Built with Vue3/React + Tiptap + TailwindCSS
 
 - Vue3: Vue 3 is the current mainstream progressive JavaScript framework, with core advantages of faster performance, smaller size, and stronger TypeScript support, suitable for development scenarios from simple pages to large applications.
+- React: React is a JavaScript library for building user interfaces. It provides a declarative way to describe user interfaces and uses a virtual DOM to improve performance.
 - Tiptap: Tiptap is a headless rich text editor library that provides rich text editing functions such as bold, italic, headings, lists, etc. Its design philosophy is simple and easy to use, while also supporting custom extensions.
 - TailwindCSS: Tailwind CSS is a utility-first CSS framework that provides a set of predefined class names for quickly building custom user interfaces. Its design philosophy is "atomic CSS", meaning each class name represents a specific style rather than a complex component.
 
